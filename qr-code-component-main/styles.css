@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    background-color: hsl(212, 45%, 89%);
+    justify-content: center;
+}
+div{
+    background-color: hsl(0, 0%, 100%);
+    width: 375px;
+    padding: 1rem;
+    border-radius: 4%;
+    margin: 2rem 0;
+}
+img{
+    border-radius: 4%;
+}
+h2{
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+    font-size: 25px;
+    margin: 5% 0;
+}
+p{
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+    font-size: 15px;
+}
