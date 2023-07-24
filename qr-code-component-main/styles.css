@@ -2,8 +2,9 @@ body{
     display: flex;
     background-color: hsl(212, 45%, 89%);
     justify-content: center;
+    min-height: 100vh;
 }
-div{
+main{
     background-color: hsl(0, 0%, 100%);
     width: 375px;
     padding: 1rem;
@@ -13,14 +14,14 @@ div{
 img{
     border-radius: 4%;
 }
-h2{
+h1{
     color: hsl(218, 44%, 22%);
-    font-weight: 700;
+    font-weight: 700em;
     font-size: 25px;
-    margin: 5% 0;
+    margin: 5% 5%;
 }
 p{
     color: hsl(220, 15%, 55%);
-    font-weight: 400;
-    font-size: 15px;
+    font-weight: 400em;
+    font-size: 18px;
 }
