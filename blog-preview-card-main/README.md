@@ -23,9 +23,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Screenshot/"Desktop screenshot.jpeg")
-![](./Screenshot/"Focus and Hover screenshot.jpeg")
-![](./Screenshot/"Mobile screenshot.jpeg")
+![](./Screenshot/Desktop_screenshot.jpeg)
+![](./Screenshot/Focus_and_Hover_screenshot.jpeg)
+![](./Screenshot/Mobile_screenshot.jpeg)
 
 ### Links
 
