@@ -21,12 +21,6 @@ Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 
-### Screenshot
-
-![](./Screenshot/Desktop_screenshot.jpeg)
-![](./Screenshot/Focus_and_Hover_screenshot.jpeg)
-![](./Screenshot/Mobile_screenshot.jpeg)
-
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
